@@ -7552,7 +7552,11 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
+<<<<<<< HEAD
 welcomeText.textContent = "Welcome To The WebKey Key Bên Dưới Web";
+=======
+welcomeText.textContent = "Welcome to dungluong's profile website.";
+>>>>>>> 5ffc3b6 (update profile)
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 // Tạo phần tử p cho dòng chữ "- Nhấn để tiếp tục -"
